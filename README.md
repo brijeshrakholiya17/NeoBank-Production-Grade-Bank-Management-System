@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 NeoBank — Production-Grade Bank Management System
 
 > A clean, layered, fully object-oriented banking application written in **pure Python** (standard library only — zero runtime dependencies). It ships with **two front-ends over one engine**: a modern, dark-themed **Tkinter desktop GUI** and an interactive **command-line interface**. Built to demonstrate professional software-engineering practices end to end: domain modelling, custom exceptions, the repository pattern, a service layer, secure credential handling, structured logging, and a comprehensive automated test suite.
@@ -173,3 +174,7 @@ Released under the **MIT License**.
 ---
 
 **Author:** Brijesh Rakholiya · [GitHub](https://github.com/brijeshrakholiya17) · [LinkedIn](https://linkedin.com/in/brijeshrakholiya17)
+=======
+# NeoBank-Production-Grade-Bank-Management-System
+This pure Python, object-oriented banking application provides a modern Tkinter GUI and an interactive CLI. Running on a single engine with zero runtime dependencies, it effectively demonstrates professional software engineering principles like domain modeling, the repository pattern, structured logging, secure credentials, and a solid test suite.
+>>>>>>> 02d3612e97a6feaa2026f49fc28adf32d4746f0f
