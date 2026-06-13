@@ -1,0 +1,12 @@
+[project]
+name = "neobank"
+version = "1.0.0"
+description = "A production-grade, object-oriented Bank Management System in pure Python."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Brijesh Rakholiya" }]
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]

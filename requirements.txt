@@ -1,0 +1,3 @@
+# NeoBank runs on the Python standard library only - no runtime dependencies.
+# The packages below are OPTIONAL and only used for development/quality checks.
+pytest>=7.0        # nicer test runner (the suite also works with unittest)
